@@ -1,3 +1,2 @@
-$ cat 5-firstlines
 #!bin/bash
 cat | head -n 10 /etc/passwd
